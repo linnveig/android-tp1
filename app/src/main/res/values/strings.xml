@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP1_TatianaIaltanskaia</string>
+    <string name="ActivityTitle">Evaluar Palindromo</string>
+    <string name="insertText">Ingrese su texto</string>
+    <string name="btnEvaluate">Evaluar</string>
+    <string name="btnBack">Atras</string>
+
+</resources>
